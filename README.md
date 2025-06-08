@@ -46,3 +46,9 @@ How to Run:
 3.Execute the code:Paste it into the console and press Enter.
 4.Respond to the prompt:A prompt() dialog will appear asking for the amount to send. Enter the amount and press OK or Enter.
 5.View the output:The calculated transaction fee and total debited amount will be displayed in the console.
+
+Author
+Mark Davies Gachanja
+
+Copyright
+© 2025 Mark Davies.All rights reserved
